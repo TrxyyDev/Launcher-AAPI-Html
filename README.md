@@ -2,3 +2,5 @@
 
 #
  Launcher using Javafx, Alternative-API, Loading Html content for animation.
+
+![](https://i.imgur.com/59Y72O2.gif)
